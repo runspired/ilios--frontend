@@ -4557,9 +4557,9 @@ ember-a11y-testing@^0.5.2:
     ember-cli-version-checker "^2.1.0"
     ember-get-config "^0.2.4"
 
-ember-a11y@^0.1.15:
-  version "0.1.16"
-  resolved "https://registry.yarnpkg.com/ember-a11y/-/ember-a11y-0.1.16.tgz#5d02063614e7fcf7782b15dfdd21f174e8c9a827"
+ember-a11y@^0.1.17:
+  version "0.1.17"
+  resolved "https://registry.yarnpkg.com/ember-a11y/-/ember-a11y-0.1.17.tgz#dc50aa302f2aa044411d00bc0574ea3e87c25647"
   dependencies:
     broccoli-funnel "^2.0.1"
     broccoli-merge-trees "^3.0.1"
